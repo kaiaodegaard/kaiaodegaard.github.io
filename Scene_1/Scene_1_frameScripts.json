@@ -1,0 +1,42 @@
+[
+	{
+		"AnSceneNodeScene_201" : [
+			{
+				"frameNumber" : "0",
+				"layerNumber" : "4",
+				"script" : "sc_AnSceneNodeScene_201_0_4_fn;"
+			},
+			{
+				"frameNumber" : "84",
+				"layerNumber" : "0",
+				"script" : "sc_AnSceneNodeScene_201_84_0_fn;"
+			},
+			{
+				"frameNumber" : "84",
+				"layerNumber" : "1",
+				"script" : "sc_AnSceneNodeScene_201_84_1_fn;"
+			},
+			{
+				"frameNumber" : "85",
+				"layerNumber" : "0",
+				"script" : "sc_AnSceneNodeScene_201_85_0_fn;"
+			},
+			{
+				"frameNumber" : "85",
+				"layerNumber" : "1",
+				"script" : "sc_AnSceneNodeScene_201_85_1_fn;"
+			},
+			{
+				"frameNumber" : "86",
+				"layerNumber" : "0",
+				"script" : "sc_AnSceneNodeScene_201_86_0_fn;"
+			},
+			{
+				"frameNumber" : "86",
+				"layerNumber" : "1",
+				"script" : "sc_AnSceneNodeScene_201_86_1_fn;"
+			}
+		]
+	},
+	{}
+]
